@@ -1,1 +1,1 @@
-print("Soon FTAP)
+print("Soon FTAP")
